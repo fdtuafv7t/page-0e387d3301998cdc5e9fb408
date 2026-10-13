@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6836c68bf7144a473126315d",
+  "owner": "fdtuafv7t",
+  "repo": "page-0e387d3301998cdc5e9fb408",
+  "title": "clash代理",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0e387d3301998cdc5e9fb408",
+      "a": "clash代理",
+      "b": "",
+      "entity": "clash代理",
+      "brand": "clash代理",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9765ec71dfa3b8d6edc4c947b7251bdcdc335e9471a4f27cd45dae3619b48f87",
+      "content": {
+        "keyword1": "clash代理",
+        "keyword2": "",
+        "primary_entity": "clash代理",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash代理提供专业的 Clash VPN 梯子网络加速服务，支持机场订阅、客户端下载和官网下载。解锁流媒体平台，保护您的网络隐私，享受高速稳定的代理体验。",
+          "AI_DESCRIPTION": "clash代理提供专业的 Clash VPN 梯子网络加速服务，支持机场订阅、客户端下载和官网下载。解锁流媒体平台，保护您的网络隐私，享受高速稳定的代理体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --accent: #FF6B6B;\n            --bg: #F8F5F2;\n            --text: #333333;\n            --light: #FFFFFF;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n            line-height: 1.7;\n            color: var(--text);\n            background-color: var(--bg);\n            margin: 0;\n            padding: 0;\n        }\n        .container {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: var(--accent);\n            text-align: center;\n            font-size: 2.5rem;\n            margin-bottom: 10px;\n        }\n        h2 {\n            color: #FF6B6B;\n            font-size: 1.8rem;\n            margin: 40px 0 20px;\n            border-bottom: 2px solid #FFE4E1;\n            padding-bottom: 10px;\n        }\n        .hero {\n            background: linear-gradient(135deg, #FFF0F0, var(--bg));\n            padding: 60px 20px;\n            text-align: center;\n            border-radius: 12px;\n            margin-bottom: 40px;\n        }\n        .hero h2 {\n            font-size: 1.5rem;\n            color: #666;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n            margin-bottom: 40px;\n        }\n        .plan-card {\n            background: var(--light);\n            border-radius: 12px;\n            padding: 30px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n            border: 2px solid transparent;\n            transition: transform 0.3s;\n        }\n        .plan-card.featured {\n            border-color: var(--accent);\n            transform: scale(1.05);\n        }\n        .plan-card h3 {\n            color: var(--accent);\n            margin-top: 0;\n        }\n        .clients-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));\n            gap: 20px;\n            margin-bottom: 40px;\n        }\n        .client-card {\n            background: var(--light);\n            padding: 20px;\n            border-radius: 12px;\n            text-align: center;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n        }\n        .client-card a {\n            display: inline-block;\n            margin-top: 15px;\n            background: var(--accent);\n            color: white;\n            padding: 12px 24px;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: bold;\n        }\n        details {\n            background: var(--light);\n            border-radius: 8px;\n            padding: 15px;\n            margin-bottom: 15px;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            color: #FF6B6B;\n        }\n        footer {\n            background: #333;\n            color: #ddd;\n            padding: 30px;\n            text-align: center;\n        }\n        .footer-links {\n            display: flex;\n            justify-content: center;\n            gap: 20px;\n            flex-wrap: wrap;\n            margin-bottom: 20px;\n        }\n        a {\n            color: var(--accent);\n            text-decoration: none;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n        @media (max-width: 768px) {\n            h1 { font-size: 2rem; }\n            .container { padding: 15px; }\n        }\n    </style>\n\n\n    <main class=\"container\">\n        <header>\n            <h1>clash代理</h1>\n            <p>稳定·安全·高效的 Clash VPN 代理服务</p>\n        </header>\n\n        <section class=\"hero\">\n            <h2>欢迎使用 clash代理</h2>\n            <p>专业的 VPN 梯子网络加速器，提供机场订阅和客户端下载服务。解锁全球内容，保护您的在线隐私。</p>\n        </section>\n\n        <section>\n            <h2>品牌简介</h2>\n            <p>clash代理是一款基于 Clash 核心的网络代理加速工具，致力于为用户提供稳定快速的 VPN 服务。我们支持多种客户端，方便您随时随地连接优质节点。</p>\n            <p>无论是日常浏览、在线游戏还是海外办公，clash代理都能为您带来无缝体验。</p>\n        </section>\n\n        <section>\n            <h2>使用场景</h2>\n            <p>clash代理适用于多种网络需求，包括：</p>\n            <ul>\n                <li>解锁 Netflix、Disney+ 等流媒体平台</li>\n                <li>加速在线游戏连接</li>\n                <li>保护您的网络隐私和数据安全</li>\n                <li>支持多设备同时使用</li>\n                <li>7x24 技术支持</li>\n            </ul>\n        </section>\n\n        <section>\n            <h2>操作说明</h2>\n            <ol>\n                <li>选择适合您的套餐并完成支付</li>\n                <li>访问官网下载对应客户端</li>\n                <li>获取您的专属订阅链接</li>\n                <li>在客户端中导入订阅并选择节点</li>\n                <li>连接到高速线路即可使用</li>\n            </ol>\n        </section>\n\n        <section id=\"plans\">\n            <h2>选择您的套餐</h2>\n            <div class=\"plans-grid\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <p>¥15/月 | 按年 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#download\">立即订阅</a>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版 <span>推荐</span></h3>\n                    <p>¥35/月 | 按年 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#download\">立即订阅</a>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <p>¥85/月 | 按年 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#download\">立即订阅</a>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"clients\">\n            <h2>客户端选择</h2>\n            <div class=\"clients-grid\">\n                <div class=\"client-card\">\n                    <h3>Windows</h3>\n                    <p>Clash for Windows 官方客户端</p>\n                    <a href=\"#download-wins\">下载客户端</a>\n                </div>\n                <div class=\"client-card\">\n                    <h3>macOS</h3>\n                    <p>Clash Meta for macOS</p>\n                    <a href=\"#download-mac\">下载客户端</a>\n                </div>\n                <div class=\"client-card\">\n                    <h3>Android</h3>\n                    <p>Clash Android 客户端</p>\n                    <a href=\"#download-android\">下载客户端</a>\n                </div>\n                <div class=\"client-card\">\n                    <h3>iOS</h3>\n                    <p>Shadowrocket 或 Stash</p>\n                    <a href=\"#download-ios\">下载客户端</a>\n                </div>\n                <div class=\"client-card\">\n                    <h3>Linux</h3>\n                    <p>Clash Core CLI</p>\n                    <a href=\"#download-linux\">下载客户端</a>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是 clash代理？</summary>\n                <p>clash代理是一款专业的 Clash VPN 代理服务，提供稳定高效的网络加速和机场订阅功能，帮助用户解锁全球内容并保护隐私。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>您可以访问官网下载对应平台的 Clash 客户端，包括 Windows、macOS、Android 和 iOS 等。下载后导入订阅链接即可使用。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>clash代理支持 Windows、macOS、Android、iOS、Linux 等多个平台，并提供多设备在线功能。</p>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p>基础版适合个人使用，旗舰版提供最佳流媒体解锁和游戏加速，团队版适合企业用户。</p>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <p>我们提供 7x24 技术支持，VIP 用户享有专属客户经理服务，快速响应您的需求。</p>\n            </details>\n            <details>\n                <summary>节点稳定性如何？</summary>\n                <p>所有节点均经过优化，旗舰版和团队版提供 IPLC 专线，游戏加速更稳定。</p>\n            </details>\n        </section>\n\n        <section>\n            <h2>为什么选择 clash代理？</h2>\n            <p>clash代理以稳定性和用户体验著称，提供官方下载、正规订阅链接和专业的客服支持，是您的最佳 VPN 梯子选择。</p>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n    <footer>\n        <div class=\"container\">\n            <div class=\"footer-links\">\n                <a href=\"#sitemap\">站点地图</a>\n                <a href=\"#privacy\">隐私政策</a>\n                <a href=\"#terms\">使用条款</a>\n                <a href=\"#support\">客服中心</a>\n            </div>\n            <p>© 2024 clash代理 版权所有 | 友情链接 | 广告位招租</p>\n            <p>如有任何问题，请通过官网联系我们。</p>\n        </div>\n    </footer>\n\n",
+          "hash": "c8333933c17181247928f0e624aad79441200e45ed48f6f94fe9ea1e6391b0d7",
+          "seo": {
+            "title": "clash代理 - 优质 Clash VPN 加速器，机场订阅与客户端下载",
+            "keywords": "clash代理, 机场订阅, vpn加速器, clash客户端下载, 梯子网络加速, 官网下载",
+            "description": "clash代理提供专业的 Clash VPN 梯子网络加速服务，支持机场订阅、客户端下载和官网下载。解锁流媒体平台，保护您的网络隐私，享受高速稳定的代理体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zqnok.cn",
+    "host": "p-2ba2f8c026.zqnok.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "39bc262cbafcfc6e16fcd8c9f1d9926bfba49424d0830f0714b7af62e1755510",
+    "sitemap.xml": "7f23f7ed469b06abab803b0ee7d8f62f087b68434f3a498e3d19173113c3ab36",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d5e760f29bc1b09edc469adf03ab8afff4c8104710d2ff0eae104c3d72f214b9",
+    "robots.txt": "c02114783914d7dbba298ab85fbb44274cbd3bf3af6c59c4561727231aacf4de",
+    "41e35c08f2de5a8d234e878b541dd755.txt": "3b38caa9cecce93ff087416b6cdc76136f8b47b7318c9136b79f8316a01790f3"
+  },
+  "revision": "24523d94b0c381e3b6c569ceb475a5fe412ce54b2404a7bcb4dddf8068abd830"
+}
